@@ -18,3 +18,6 @@ optional arguments:
   --arch [ARCH]         Architecture to use if -a is specified (default is x86_64).
   --list-architectures  List all supported architectures.
 ```
+
+### Dependencies
+This project requires the keystone-engine library, which can be installed using pip.
